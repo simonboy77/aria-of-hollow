@@ -11,3 +11,6 @@ Project with ambition of adding the following hollow knight inspired changes:
 - See if I can make the movement feel crispier. Stronger gravity maybe? Change how momentum works?
 - Quick Parry soul from Dead Warrior could be integrated into base kit
 - Maybe adjust some souls to make them more awesome? Check if AoS supports more souls = more strength, if not maybe integrate it
+
+save state:
+https://www.zophar.net/download_file/5787
